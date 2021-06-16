@@ -45,6 +45,9 @@ nav ul li {
   .navbar-brand{
     width: 7rem;
   }
+  #navbarSupportedContent{
+    background: var(--primary-dark);
+  }
 }
 
 /* can delete the below segment */

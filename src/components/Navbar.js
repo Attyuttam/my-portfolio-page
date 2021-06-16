@@ -23,33 +23,31 @@ const Navbar = () => {
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
           aria-label="Toggle navigation"
-          style={{borderColor:"#fff" }}
+          style={{borderColor:"#fff"}}
         >
          <FontAwesomeIcon icon={faBars} style={{ color:"#fff"}}/>
         </button>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav mr-auto">
-            
-          </ul>
+          
           <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
-              <Link smooth={true} to="home" offset={-87} className="nav-link" href="#">
+              <Link smooth={true} to="home" offset={-75} className="nav-link" href="#">
                 Home
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="about" offset={-87} className="nav-link" href="#">
+              <Link smooth={true} to="about" offset={-75} className="nav-link" href="#">
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="skillsets" offset={-87} className="nav-link" href="#">
+              <Link smooth={true} to="skillsets" offset={-75} className="nav-link" href="#">
                 Skillset
               </Link>
             </li>
             <li className="nav-item">
-              <Link smooth={true} to="experience" offset={-87} className="nav-link" href="#">
+              <Link smooth={true} to="experience" offset={-75} className="nav-link" href="#">
                 Experience
               </Link>
             </li>
