@@ -19,7 +19,7 @@ body {
 /*************************NAVBAR*****************************/
 nav {
   z-index: 2;
-  height: 4.425rem;
+  height: 4.5rem;
 }
 .navbar-logo {
   width: 15rem;
@@ -135,13 +135,14 @@ nav ul li {
 
 /*************************ABOUT ME**************************/
 .photo-wrap{
+  padding-top: 4rem;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .profile-img {
-  width: 19.125rem;
-  height: 25.125rem;
+  width: 30.125rem;
+  height: 24.125rem;
   border-radius:  50%;
   padding: .3rem;
   border: 1px solid var(--primary-orange);
@@ -157,7 +158,9 @@ nav ul li {
 
 @media(max-width: 468px) {
   .profile-img{
+    padding: 0rem;
     width: 20rem;
+    height: 15rem;
   }
 }
 /*************************SKILLSETS**************************/
