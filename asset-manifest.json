@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-page/static/css/main.2b4429ba.chunk.css",
+    "main.js": "/my-portfolio-page/static/js/main.753d4448.chunk.js",
+    "main.js.map": "/my-portfolio-page/static/js/main.753d4448.chunk.js.map",
+    "runtime-main.js": "/my-portfolio-page/static/js/runtime-main.6287d3d7.js",
+    "runtime-main.js.map": "/my-portfolio-page/static/js/runtime-main.6287d3d7.js.map",
+    "static/css/2.6add6fff.chunk.css": "/my-portfolio-page/static/css/2.6add6fff.chunk.css",
+    "static/js/2.35c629fb.chunk.js": "/my-portfolio-page/static/js/2.35c629fb.chunk.js",
+    "static/js/2.35c629fb.chunk.js.map": "/my-portfolio-page/static/js/2.35c629fb.chunk.js.map",
+    "index.html": "/my-portfolio-page/index.html",
+    "static/css/2.6add6fff.chunk.css.map": "/my-portfolio-page/static/css/2.6add6fff.chunk.css.map",
+    "static/css/main.2b4429ba.chunk.css.map": "/my-portfolio-page/static/css/main.2b4429ba.chunk.css.map",
+    "static/js/2.35c629fb.chunk.js.LICENSE.txt": "/my-portfolio-page/static/js/2.35c629fb.chunk.js.LICENSE.txt",
+    "static/media/algo_trading.900c7764.png": "/my-portfolio-page/static/media/algo_trading.900c7764.png",
+    "static/media/android.7d5da17d.png": "/my-portfolio-page/static/media/android.7d5da17d.png",
+    "static/media/App.css": "/my-portfolio-page/static/media/background.99414195.jpg",
+    "static/media/banking_application.4288546b.png": "/my-portfolio-page/static/media/banking_application.4288546b.png",
+    "static/media/calorie_tracker.7b6c07e1.png": "/my-portfolio-page/static/media/calorie_tracker.7b6c07e1.png",
+    "static/media/chat_app.2443f904.png": "/my-portfolio-page/static/media/chat_app.2443f904.png",
+    "static/media/classification.13a1b466.png": "/my-portfolio-page/static/media/classification.13a1b466.png",
+    "static/media/gans.d85c8d8a.png": "/my-portfolio-page/static/media/gans.d85c8d8a.png",
+    "static/media/logo_with_name_footer.893c3600.png": "/my-portfolio-page/static/media/logo_with_name_footer.893c3600.png",
+    "static/media/propic.52f401ed.jpg": "/my-portfolio-page/static/media/propic.52f401ed.jpg",
+    "static/media/shooter.0b6dc4b0.png": "/my-portfolio-page/static/media/shooter.0b6dc4b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6287d3d7.js",
+    "static/css/2.6add6fff.chunk.css",
+    "static/js/2.35c629fb.chunk.js",
+    "static/css/main.2b4429ba.chunk.css",
+    "static/js/main.753d4448.chunk.js"
+  ]
+}
