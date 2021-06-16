@@ -61,35 +61,35 @@ const Footer = () => {
           <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
             <div className="d-flex justify-content-center">
               <FacebookShareButton
-                url={"https://www.npmjs.com/package/react-share"}
+                url={"https://attyuttam.github.io/my-portfolio-page/"}
                 quote={"The coolest full stack developer ever!"}
                 hashtag="#fullstackdeveloper"
               >
                 <FacebookIcon className="mx-3" size={36} />
               </FacebookShareButton>
               <TwitterShareButton
-                url={"https://www.npmjs.com/package/react-share"}
+                url={"https://attyuttam.github.io/my-portfolio-page/"}
                 quote={"The coolest full stack developer ever!"}
                 hashtag="#fullstackdeveloper"
               >
                 <TwitterIcon className="mx-3" size={36} />
               </TwitterShareButton>
               <RedditShareButton
-                url={"https://www.npmjs.com/package/react-share"}
+                url={"https://attyuttam.github.io/my-portfolio-page/"}
                 quote={"The coolest full stack developer ever!"}
                 hashtag="#fullstackdeveloper"
               >
                 <RedditIcon className="mx-3" size={36} />
               </RedditShareButton>
               <LinkedinShareButton
-                url={"https://www.npmjs.com/package/react-share"}
+                url={"https://attyuttam.github.io/my-portfolio-page/"}
                 quote={"The coolest full stack developer ever!"}
                 hashtag="#fullstackdeveloper"
               >
                 <LinkedinIcon className="mx-3" size={36} />
               </LinkedinShareButton>
               <WhatsappShareButton
-                url={"https://www.npmjs.com/package/react-share"}
+                url={"https://attyuttam.github.io/my-portfolio-page/"}
                 quote={"The coolest full stack developer ever!"}
                 hashtag="#fullstackdeveloper"
               >
