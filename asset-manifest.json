@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-portfolio-page/static/css/main.4179c068.chunk.css",
-    "main.js": "/my-portfolio-page/static/js/main.b0ba871e.chunk.js",
-    "main.js.map": "/my-portfolio-page/static/js/main.b0ba871e.chunk.js.map",
+    "main.css": "/my-portfolio-page/static/css/main.39073d9a.chunk.css",
+    "main.js": "/my-portfolio-page/static/js/main.b2f70817.chunk.js",
+    "main.js.map": "/my-portfolio-page/static/js/main.b2f70817.chunk.js.map",
     "runtime-main.js": "/my-portfolio-page/static/js/runtime-main.6287d3d7.js",
     "runtime-main.js.map": "/my-portfolio-page/static/js/runtime-main.6287d3d7.js.map",
     "static/css/2.6add6fff.chunk.css": "/my-portfolio-page/static/css/2.6add6fff.chunk.css",
-    "static/js/2.35c629fb.chunk.js": "/my-portfolio-page/static/js/2.35c629fb.chunk.js",
-    "static/js/2.35c629fb.chunk.js.map": "/my-portfolio-page/static/js/2.35c629fb.chunk.js.map",
+    "static/js/2.d4e51c64.chunk.js": "/my-portfolio-page/static/js/2.d4e51c64.chunk.js",
+    "static/js/2.d4e51c64.chunk.js.map": "/my-portfolio-page/static/js/2.d4e51c64.chunk.js.map",
     "index.html": "/my-portfolio-page/index.html",
     "static/css/2.6add6fff.chunk.css.map": "/my-portfolio-page/static/css/2.6add6fff.chunk.css.map",
-    "static/css/main.4179c068.chunk.css.map": "/my-portfolio-page/static/css/main.4179c068.chunk.css.map",
-    "static/js/2.35c629fb.chunk.js.LICENSE.txt": "/my-portfolio-page/static/js/2.35c629fb.chunk.js.LICENSE.txt",
+    "static/css/main.39073d9a.chunk.css.map": "/my-portfolio-page/static/css/main.39073d9a.chunk.css.map",
+    "static/js/2.d4e51c64.chunk.js.LICENSE.txt": "/my-portfolio-page/static/js/2.d4e51c64.chunk.js.LICENSE.txt",
     "static/media/algo_trading.900c7764.png": "/my-portfolio-page/static/media/algo_trading.900c7764.png",
     "static/media/android.7d5da17d.png": "/my-portfolio-page/static/media/android.7d5da17d.png",
     "static/media/App.css": "/my-portfolio-page/static/media/background.99414195.jpg",
@@ -20,15 +20,20 @@
     "static/media/chat_app.2443f904.png": "/my-portfolio-page/static/media/chat_app.2443f904.png",
     "static/media/classification.13a1b466.png": "/my-portfolio-page/static/media/classification.13a1b466.png",
     "static/media/gans.d85c8d8a.png": "/my-portfolio-page/static/media/gans.d85c8d8a.png",
+    "static/media/gans_blog.a3aaaafe.png": "/my-portfolio-page/static/media/gans_blog.a3aaaafe.png",
     "static/media/logo_with_name_footer.893c3600.png": "/my-portfolio-page/static/media/logo_with_name_footer.893c3600.png",
+    "static/media/lrvsNN_blog.a16bda5c.png": "/my-portfolio-page/static/media/lrvsNN_blog.a16bda5c.png",
     "static/media/propic.965cdace.png": "/my-portfolio-page/static/media/propic.965cdace.png",
-    "static/media/shooter.0b6dc4b0.png": "/my-portfolio-page/static/media/shooter.0b6dc4b0.png"
+    "static/media/pytorch_blog.5b176cb6.png": "/my-portfolio-page/static/media/pytorch_blog.5b176cb6.png",
+    "static/media/shooter.0b6dc4b0.png": "/my-portfolio-page/static/media/shooter.0b6dc4b0.png",
+    "static/media/sign_blog.be7f7276.png": "/my-portfolio-page/static/media/sign_blog.be7f7276.png",
+    "static/media/weather_blog.5d551a43.png": "/my-portfolio-page/static/media/weather_blog.5d551a43.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6287d3d7.js",
     "static/css/2.6add6fff.chunk.css",
-    "static/js/2.35c629fb.chunk.js",
-    "static/css/main.4179c068.chunk.css",
-    "static/js/main.b0ba871e.chunk.js"
+    "static/js/2.d4e51c64.chunk.js",
+    "static/css/main.39073d9a.chunk.css",
+    "static/js/main.b2f70817.chunk.js"
   ]
 }
