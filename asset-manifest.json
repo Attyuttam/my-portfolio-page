@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio-page/static/css/main.39073d9a.chunk.css",
+    "main.css": "/my-portfolio-page/static/css/main.54eddaba.chunk.css",
     "main.js": "/my-portfolio-page/static/js/main.b2f70817.chunk.js",
     "main.js.map": "/my-portfolio-page/static/js/main.b2f70817.chunk.js.map",
     "runtime-main.js": "/my-portfolio-page/static/js/runtime-main.6287d3d7.js",
@@ -10,7 +10,7 @@
     "static/js/2.d4e51c64.chunk.js.map": "/my-portfolio-page/static/js/2.d4e51c64.chunk.js.map",
     "index.html": "/my-portfolio-page/index.html",
     "static/css/2.6add6fff.chunk.css.map": "/my-portfolio-page/static/css/2.6add6fff.chunk.css.map",
-    "static/css/main.39073d9a.chunk.css.map": "/my-portfolio-page/static/css/main.39073d9a.chunk.css.map",
+    "static/css/main.54eddaba.chunk.css.map": "/my-portfolio-page/static/css/main.54eddaba.chunk.css.map",
     "static/js/2.d4e51c64.chunk.js.LICENSE.txt": "/my-portfolio-page/static/js/2.d4e51c64.chunk.js.LICENSE.txt",
     "static/media/algo_trading.900c7764.png": "/my-portfolio-page/static/media/algo_trading.900c7764.png",
     "static/media/android.7d5da17d.png": "/my-portfolio-page/static/media/android.7d5da17d.png",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.6287d3d7.js",
     "static/css/2.6add6fff.chunk.css",
     "static/js/2.d4e51c64.chunk.js",
-    "static/css/main.39073d9a.chunk.css",
+    "static/css/main.54eddaba.chunk.css",
     "static/js/main.b2f70817.chunk.js"
   ]
 }
