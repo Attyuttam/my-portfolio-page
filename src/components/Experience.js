@@ -31,9 +31,19 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2019-Present</h3>
+            <h3>2019-2022</h3>
             <p>
               Full Stack software engineer (Web developer) in JP Morgan Chase & Co.
+            </p>
+          </div>
+        </div>
+      {/* - */}
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2022-Present</h3>
+            <p>
+             Full Stack software engineer (Web developer) in Goldman Sachs 
             </p>
           </div>
         </div>
