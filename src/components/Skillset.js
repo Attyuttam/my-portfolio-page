@@ -34,7 +34,7 @@ const Skillset = () => {
                                 <FontAwesomeIcon className="icon" icon={faDatabase} size="2x"/>
                                 </div>
                                 <h3>Database Layer</h3>
-                                <p>Oracle SQL, MySQL, Postgre SQL, Sybase, Basics of MongoDB </p>
+                                <p>Oracle SQL, MySQL, Sybase</p>
                             </div>
                         </div>
                         {/* - */}
@@ -54,19 +54,10 @@ const Skillset = () => {
                                 <FontAwesomeIcon className="icon" icon={faCubes} size="2x"/>
                                 </div>
                                 <h3>Algorithms and Data Structures</h3>
-                                <p>Masters thesis on Domination in graphs and I am a regular problem solver and I use C++ for this purpose</p>
+                                <p>Masters thesis on Domination in graphs and I am a regular problem solver and I use Java for this purpose</p>
                             </div>
                         </div>
-                        {/* - */}
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="box">
-                            <div className="circle">
-                                <FontAwesomeIcon className="icon" icon={faPython} size="2x"/>
-                                </div>
-                                <h3>AI/ML and DataScience</h3>
-                                <p>Have worked on projects using Python, PyTorch, Strategies like Decision Trees, KNN algorithm, Neural Networks etc</p>
-                            </div>
-                        </div>
+                  
                     </div>
                 </div>
             
